@@ -11,3 +11,9 @@ Quantet(퀀텟)은 음악의 사중주를 의미하는 Quartet(콰르텟)에서 
 2. https://wikidocs.net/227217
 "퀀트 투자 쿡북", 위키독스, 파이썬으로 퀀트
 
+3. https://github.com/hmnth1/table_ocr
+table 형태 인식 ocr 패키지
+
+4. https://github.com/eihli/image-table-ocr
+table 형태 인식 ocr 패키지
+
