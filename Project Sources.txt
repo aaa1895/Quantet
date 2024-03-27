@@ -17,3 +17,12 @@ table 형태 인식 ocr 패키지
 4. https://github.com/eihli/image-table-ocr
 table 형태 인식 ocr 패키지
 
+5. https://digi.bib.uni-mannheim.de/tesseract/
+Ocr 기술에 필요한 Tesseract 설치 링크
+
+6. https://kind.krx.co.kr/investwarn/delcompany.do?method=searchDelCompanyMain
+기업공시 채널. 1999-01-01부터 현재까지의 상장폐지현황(티커 포함) 데이터를 csv형태로 받을 수 있음.
+
+7. http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd
+한국거래소 정보데이터시스템. 프로젝트 관련 각종 데이터를 받을 수 있음.
+
