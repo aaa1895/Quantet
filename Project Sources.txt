@@ -26,3 +26,8 @@ Ocr 기술에 필요한 Tesseract 설치 링크
 7. http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd
 한국거래소 정보데이터시스템. 프로젝트 관련 각종 데이터를 받을 수 있음.
 
+8. https://gils-lab.tistory.com/38
+dart 오픈 api
+
+9. https://psystat.tistory.com/151
+파이썬을 이용한 한국주식(코스피, 코스닥) 주가 데이터 수집
