@@ -31,3 +31,6 @@ dart 오픈 api
 
 9. https://psystat.tistory.com/151
 파이썬을 이용한 한국주식(코스피, 코스닥) 주가 데이터 수집
+
+10. https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS003&apiId=2019016
+Dart 상장기업 재무정보 개발가이드.
